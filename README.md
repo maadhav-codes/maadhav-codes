@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with **6 m
 
 ### 📫 How to Reach Me
 - **Frontend Mentor** - [@maadhav-codes](https://www.frontendmentor.io/profile/maadhav-codes)
+- **Twitter** - [maadhav_codes](https://x.com/maadhav_codes)
 
 ---
 
