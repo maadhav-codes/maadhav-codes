@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with **6 m
 ---
 
 ### 🛠️ Skills & Technologies
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: HTML, CSS, JavaScript (ES6+)
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code, Figma, Chrome DevTools
 - **Others**: Responsive Design, Cross-Browser Compatibility, Basic SEO Principles, Accessibility
